@@ -17,7 +17,6 @@ It helps financial organizations to make data-driven lending decisions and reduc
 
 The dataset used in this project is the **"Give Me Some Credit"** dataset from Kaggle.
 
-Link: https://www.kaggle.com/c/GiveMeSomeCredit
 
 ---
 
