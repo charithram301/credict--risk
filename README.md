@@ -13,14 +13,11 @@ It helps financial organizations to make data-driven lending decisions and reduc
 
 ---
 
-##  Dataset
-The dataset includes applicant financial and personal details such as:
-- Age  
-- Income  
-- Loan Amount  
-- Credit History  
-- Employment Status
-- Numberofdaysdue 
+##  Dataset Credits
+
+The dataset used in this project is the **"Give Me Some Credit"** dataset from Kaggle.
+
+Link: https://www.kaggle.com/c/GiveMeSomeCredit
 
 ---
 
